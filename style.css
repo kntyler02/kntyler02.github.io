@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Poppins:wght@300&family=Roboto+Condensed:wght@300&display=swap');
+
+body {
+  color: #222;
+  font-family: "Roboto+Condensed", "Helvetica", "Arial" sans-serif;
+  font-weight: 300;
+}
+
+#wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+nav ul {
+ padding-bottom: 20px;
+ padding-left: 0;
+ list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 30px;
+}
+
+h2 {
+ color: #FF7F15;
+ font-family: "Libre+Baskerville", "Helvetica", "Arial" sans-serif;
+ font-weight: 700;
+ padding-left: 200px;
+}
+
+h3 {
+  color: #2C8233;
+  font-family: "Poppins", "Helvetica", "Arial" sans-serif;
+  font-weight: 300;
+}
+
+table {
+  font-size: .85em;
+  border: 1px solid #000000;
+}
+
+footer {
+  font-size: .5em;
+  display: inline-block;
+  border: 1px solid #000000;
+  padding-right: 3px;
+  padding-left: 3px;
+}
+
+a,
+a:link,
+a:visited {
+  color: #2C8233;
+}
+
+a:hover {
+  color: #FF7F15;
+}
