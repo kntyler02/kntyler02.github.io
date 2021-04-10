@@ -2,7 +2,7 @@
 
 body {
   color: #222;
-  font-family: "Roboto+Condensed", "Helvetica", "Arial" sans-serif;
+  font-family: "Roboto+Condensed", "Helvetica", sans-serif;
   font-weight: 300;
 }
 
@@ -24,14 +24,14 @@ nav li {
 
 h2 {
  color: #FF7F15;
- font-family: "Libre+Baskerville", "Helvetica", "Arial" sans-serif;
+ font-family: "Libre+Baskerville", "Helvetica", sans-serif;
  font-weight: 700;
  padding-left: 200px;
 }
 
 h3 {
   color: #2C8233;
-  font-family: "Poppins", "Helvetica", "Arial" sans-serif;
+  font-family: "Poppins", "Helvetica", sans-serif;
   font-weight: 300;
 }
 
@@ -48,9 +48,7 @@ footer {
   padding-left: 3px;
 }
 
-a,
-a:link,
-a:visited {
+a,a:link,a:visited {
   color: #2C8233;
 }
 
